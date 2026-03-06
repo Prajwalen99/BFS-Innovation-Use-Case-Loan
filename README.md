@@ -93,8 +93,3 @@ This project implements a **serverless, AI-powered loan fraud detection system**
 
 ## 📌 Conclusion
 This project demonstrates a **scalable, serverless fraud detection system** for loan applications, combining **AI, OCR, and real-time data pipelines** to prevent identity fraud and streamline underwriting.
-
----
-
-### Author
-Developed as part of **Real-Time Loan Fraud Detection System** initiative.
